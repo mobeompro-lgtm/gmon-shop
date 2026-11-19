@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shop.gmon.co.kr/sitemap.xml
